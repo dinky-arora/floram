@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/dinky-arora/floram/issues"
   },
-  "homepage": "https://github.com/dinky-arora/floram#readme"
+  "homepage": "https://github.com/dinky-arora/floram#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.3"
+  }
 }
